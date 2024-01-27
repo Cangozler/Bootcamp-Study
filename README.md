@@ -1,2 +1,2 @@
 # Bootcamp-Study
-Just a bootcamp tests
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
